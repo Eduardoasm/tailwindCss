@@ -19,10 +19,16 @@ module.exports = {
       '4': '4px',
     },
     extend: {
+      backgroundImage: {
+        'restaurant': "url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80')",
+      },
       colors: {
         cyan: '#9cdbff',
         'primary': '#f3c614',
-        'secondary': '#353535'
+        'secondary': '#353535' 
+      },
+      height: {
+        '80': '20rem'
       },
       spacing: {
         '96': '24rem',

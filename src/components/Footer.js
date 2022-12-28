@@ -4,7 +4,7 @@ import { AiOutlineInstagram, AiOutlineTwitter } from 'react-icons/ai'
 
 export function Footer(){
     return(
-          <div className='absolute bottom-0 bg-secondary text-white w-full'>
+          <div className='bg-secondary text-white w-full'>
             <div className='md:flex md:justify-around md:flex-row-reverse'>
             <div className="mt-4 ml-8">
                 <div className="flex hover:text-primary"><FaFacebookF/>Facebook</div>
